@@ -10,20 +10,10 @@
         "dependencies": {
           "DSharpPlus": "4.0.0-rc1",
           "DSharpPlus.CommandsNext": "4.0.0-rc1",
-          "DSharpPlus.Interactivity": "4.0.0-rc1",
-          "DSharpPlus.Lavalink": "4.0.0-rc1",
-          "DSharpPlus.VoiceNext": "4.0.0-rc1"
+          "DSharpPlus.Lavalink": "4.0.0-rc1"
         },
         "runtime": {
           "SwearJarDiscord.dll": {}
-        }
-      },
-      "ConcurrentHashSet/1.1.0": {
-        "runtime": {
-          "lib/netstandard2.0/ConcurrentCollections.dll": {
-            "assemblyVersion": "1.1.0.0",
-            "fileVersion": "1.1.0.0"
-          }
         }
       },
       "DSharpPlus/4.0.0-rc1": {
@@ -56,18 +46,6 @@
           }
         }
       },
-      "DSharpPlus.Interactivity/4.0.0-rc1": {
-        "dependencies": {
-          "ConcurrentHashSet": "1.1.0",
-          "DSharpPlus": "4.0.0-rc1"
-        },
-        "runtime": {
-          "lib/netstandard2.0/DSharpPlus.Interactivity.dll": {
-            "assemblyVersion": "4.0.0.0",
-            "fileVersion": "4.0.0.0"
-          }
-        }
-      },
       "DSharpPlus.Lavalink/4.0.0-rc1": {
         "dependencies": {
           "DSharpPlus": "4.0.0-rc1"
@@ -76,43 +54,6 @@
           "lib/netstandard2.0/DSharpPlus.Lavalink.dll": {
             "assemblyVersion": "4.0.0.0",
             "fileVersion": "4.0.0.0"
-          }
-        }
-      },
-      "DSharpPlus.VoiceNext/4.0.0-rc1": {
-        "dependencies": {
-          "DSharpPlus": "4.0.0-rc1",
-          "DSharpPlus.VoiceNext.Natives": "1.0.0",
-          "System.Threading.Channels": "4.7.0"
-        },
-        "runtime": {
-          "lib/netstandard2.0/DSharpPlus.VoiceNext.dll": {
-            "assemblyVersion": "4.0.0.0",
-            "fileVersion": "4.0.0.0"
-          }
-        }
-      },
-      "DSharpPlus.VoiceNext.Natives/1.0.0": {
-        "runtimeTargets": {
-          "runtimes/win-x64/native/libopus.dll": {
-            "rid": "win-x64",
-            "assetType": "native",
-            "fileVersion": "0.0.0.0"
-          },
-          "runtimes/win-x64/native/libsodium.dll": {
-            "rid": "win-x64",
-            "assetType": "native",
-            "fileVersion": "1.0.18.0"
-          },
-          "runtimes/win-x86/native/libopus.dll": {
-            "rid": "win-x86",
-            "assetType": "native",
-            "fileVersion": "0.0.0.0"
-          },
-          "runtimes/win-x86/native/libsodium.dll": {
-            "rid": "win-x86",
-            "assetType": "native",
-            "fileVersion": "1.0.18.0"
           }
         }
       },
@@ -733,7 +674,6 @@
           "System.Threading.Tasks": "4.3.0"
         }
       },
-      "System.Threading.Channels/4.7.0": {},
       "System.Threading.Tasks/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.1",
@@ -763,13 +703,6 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ConcurrentHashSet/1.1.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-1SuuhZe0wUJbchXdjS23O+quojkw0IXqM9LtUp3RwgQreDI4cj1lfDbdHnD4fOYEnUrftzVIYoonvPlsXm30Bg==",
-      "path": "concurrenthashset/1.1.0",
-      "hashPath": "concurrenthashset.1.1.0.nupkg.sha512"
-    },
     "DSharpPlus/4.0.0-rc1": {
       "type": "package",
       "serviceable": true,
@@ -784,33 +717,12 @@
       "path": "dsharpplus.commandsnext/4.0.0-rc1",
       "hashPath": "dsharpplus.commandsnext.4.0.0-rc1.nupkg.sha512"
     },
-    "DSharpPlus.Interactivity/4.0.0-rc1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-jzWMdOjD3w7U2oiNlkgOwKXjZWFvnvS9wGkZRV6K5vIcOB5KzLQsPu1cAj9Pv5pwV7zcxocJvfbq/2psWcSi5g==",
-      "path": "dsharpplus.interactivity/4.0.0-rc1",
-      "hashPath": "dsharpplus.interactivity.4.0.0-rc1.nupkg.sha512"
-    },
     "DSharpPlus.Lavalink/4.0.0-rc1": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-18v/ACHiD2rGLEsgJXMaZ6sbfKPJgy9KM0YcnnKZeyVmaSKutNYFB3qmMiKdwtXU+7C6Cxij3+voDm1+7qN9xQ==",
       "path": "dsharpplus.lavalink/4.0.0-rc1",
       "hashPath": "dsharpplus.lavalink.4.0.0-rc1.nupkg.sha512"
-    },
-    "DSharpPlus.VoiceNext/4.0.0-rc1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-RxczqNfAeisf3sCzh4axStIaFw8VzXxv5Be98uTkV/vVOOMrmyvt+vbkrKsYbl+0pXjO1T+zSJ/cLuPJf7Y/OQ==",
-      "path": "dsharpplus.voicenext/4.0.0-rc1",
-      "hashPath": "dsharpplus.voicenext.4.0.0-rc1.nupkg.sha512"
-    },
-    "DSharpPlus.VoiceNext.Natives/1.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-U+UtMpommsfh+OOgLYQBy1e+53P/q6/LW18bgIJqsyshhThhiyEH8ISnpESdQrcqEDj6Nud7+FbnNi7N4QtDGw==",
-      "path": "dsharpplus.voicenext.natives/1.0.0",
-      "hashPath": "dsharpplus.voicenext.natives.1.0.0.nupkg.sha512"
     },
     "Emzi0767.Common/2.2.2": {
       "type": "package",
@@ -1301,13 +1213,6 @@
       "sha512": "sha512-VkUS0kOBcUf3Wwm0TSbrevDDZ6BlM+b/HRiapRFWjM5O0NS0LviG0glKmFK+hhPDd1XFeSdU1GmlLhb2CoVpIw==",
       "path": "system.threading/4.3.0",
       "hashPath": "system.threading.4.3.0.nupkg.sha512"
-    },
-    "System.Threading.Channels/4.7.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-gdOOXBhtt2UpTxYJm1DRmoqNfYg5ypvhzhVt0vxKhzxXFjS81r8yIOSFsJYLRa1Jc14GBAqCnjxJstO3zBN7gg==",
-      "path": "system.threading.channels/4.7.0",
-      "hashPath": "system.threading.channels.4.7.0.nupkg.sha512"
     },
     "System.Threading.Tasks/4.3.0": {
       "type": "package",

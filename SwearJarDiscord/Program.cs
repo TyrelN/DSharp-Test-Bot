@@ -27,7 +27,7 @@ namespace SwearJarDiscord
         {
             
             var json = string.Empty;
-            using(var fs = File.OpenRead("../../../config.json"))//a hacky way to arrive at the config directory
+            using(var fs = File.OpenRead("../../../configuration.json"))//a hacky way to arrive at the config directory
                 using(var sr = new StreamReader(fs, new UTF8Encoding(false)))
                     json = await sr.ReadToEndAsync().ConfigureAwait(false);
             var configJson = JsonConvert.DeserializeObject<ConfigJson>(json);
