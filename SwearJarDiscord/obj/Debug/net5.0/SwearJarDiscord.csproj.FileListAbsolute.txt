@@ -1,0 +1,58 @@
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\SwearJarDiscord.exe
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\SwearJarDiscord.deps.json
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\SwearJarDiscord.runtimeconfig.json
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\SwearJarDiscord.runtimeconfig.dev.json
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\SwearJarDiscord.dll
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\ref\SwearJarDiscord.dll
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\SwearJarDiscord.pdb
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\obj\Debug\net5.0\SwearJarDiscord.csprojAssemblyReference.cache
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\obj\Debug\net5.0\SwearJarDiscord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\obj\Debug\net5.0\SwearJarDiscord.AssemblyInfoInputs.cache
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\obj\Debug\net5.0\SwearJarDiscord.AssemblyInfo.cs
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\obj\Debug\net5.0\SwearJarDiscord.csproj.CoreCompileInputs.cache
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\obj\Debug\net5.0\SwearJarDiscord.dll
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\obj\Debug\net5.0\ref\SwearJarDiscord.dll
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\obj\Debug\net5.0\SwearJarDiscord.pdb
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\obj\Debug\net5.0\SwearJarDiscord.genruntimeconfig.cache
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\ConcurrentCollections.dll
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\DSharpPlus.dll
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\DSharpPlus.CommandsNext.dll
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\DSharpPlus.Interactivity.dll
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\Emzi0767.Common.dll
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Tyrel\source\repos\Discord Bot\SwearJarDiscord\SwearJarDiscord\obj\Debug\net5.0\SwearJarDiscord.csproj.CopyComplete
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\SwearJarDiscord.exe
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\SwearJarDiscord.deps.json
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\SwearJarDiscord.runtimeconfig.json
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\SwearJarDiscord.runtimeconfig.dev.json
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\SwearJarDiscord.dll
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\ref\SwearJarDiscord.dll
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\SwearJarDiscord.pdb
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\ConcurrentCollections.dll
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\DSharpPlus.dll
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\DSharpPlus.CommandsNext.dll
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\DSharpPlus.Interactivity.dll
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\Emzi0767.Common.dll
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\obj\Debug\net5.0\SwearJarDiscord.csprojAssemblyReference.cache
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\obj\Debug\net5.0\SwearJarDiscord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\obj\Debug\net5.0\SwearJarDiscord.AssemblyInfoInputs.cache
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\obj\Debug\net5.0\SwearJarDiscord.AssemblyInfo.cs
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\obj\Debug\net5.0\SwearJarDiscord.csproj.CoreCompileInputs.cache
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\obj\Debug\net5.0\SwearJarDiscord.csproj.CopyComplete
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\obj\Debug\net5.0\SwearJarDiscord.dll
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\obj\Debug\net5.0\ref\SwearJarDiscord.dll
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\obj\Debug\net5.0\SwearJarDiscord.pdb
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\obj\Debug\net5.0\SwearJarDiscord.genruntimeconfig.cache
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\DSharpPlus.Lavalink.dll
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\DSharpPlus.VoiceNext.dll
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\runtimes\win-x64\native\libopus.dll
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\runtimes\win-x64\native\libsodium.dll
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\runtimes\win-x86\native\libopus.dll
+C:\Users\Tyrel\source\repos\DiscordBot\SwearJarDiscord\SwearJarDiscord\bin\Debug\net5.0\runtimes\win-x86\native\libsodium.dll
